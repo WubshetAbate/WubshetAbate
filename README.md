@@ -1,3 +1,3 @@
-I’m a dedicated full stack web developer with a solid foundation in web development, strengthened through the rigorous Evangadi Tech Bootcamp. There, I mastered technologies such as React, Node.js, Express, MySQL, API integration, and modular CSS.
+I’m a dedicated full stack web developer with a solid foundation in web development, strengthened through the rigorous Evangadi Tech Bootcamp. There, I mastered technologies such as React, Node.js, Express, MySQL, API integrations.
 I collaborated with developers worldwide to build scalable, real-world projects—including Netflix, Amazon, and Apple clones, as well as Q&A, Weather, and Calculator apps. These experiences taught me how the web truly works—from frontend rendering to backend logic, databases, APIs, and deployment.
 I’m passionate about solving challenges, building powerful web applications, and continuously expanding my skills through hands-on projects.
